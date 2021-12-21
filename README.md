@@ -1,0 +1,2 @@
+# PowerShell.Module.NtRights
+nt
